@@ -59,3 +59,18 @@ typings/
 
 # mkdocs build folder
 site/
+.DS_Store
+column-samples/.DS_Store
+docs/.DS_Store
+form-samples/.DS_Store
+tools/.DS_Store
+tools/general-dynamic-deployment-with-vscode/.DS_Store
+view-samples/.DS_Store
+view-samples/budget-tracker/.DS_Store
+view-samples/contenttype-format/.DS_Store
+view-samples/document-library/.DS_Store
+view-samples/london-tube-status/.DS_Store
+view-samples/product-catalog/.DS_Store
+view-samples/resource-catalog/.DS_Store
+view-samples/retail-account/.DS_Store
+.DS_Store
